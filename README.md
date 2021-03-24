@@ -1,4 +1,4 @@
-# Android File Patcher
+# FreeFire Antenna Hack
 
 Simple file patcher app that was mostly used for patching game assets like Free Fire
 
